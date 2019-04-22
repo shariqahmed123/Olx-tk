@@ -6,4 +6,4 @@ https://www.olx.com.pk/item/coure-2002-reg-2003-50-orignal-owter-inner-100-orign
 
 ## This website is published at
 
-https://Shariqahmed123.github.io/olx-tk/
+https://Shariqahmed123.github.io/Olx-tk/
